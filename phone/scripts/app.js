@@ -1,5 +1,3 @@
-/* globals SIP,user,moment, Stopwatch */
-
 var ctxSip;
 
 $(document).ready(function () {
