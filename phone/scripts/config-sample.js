@@ -1,12 +1,12 @@
 var user = {
     //  User Name
-    "User": "Cloudfone-QR",
+    "User": "",
     //  Password
-    "Pass": "S6scawIZ6QlEgCy2tEEH",
+    "Pass": "",
     //  Auth Realm
-    "Realm": "cf-bs0000007.cfvn.cloud",
+    "Realm": "",
     // Display Name
-    "Display": "Hoàng",
+    "Display": "",
     // WebSocket URL
-    "WSServer": "wss://rtc.cloudfone.vn:4433"
+    "WSServer": ""
 };
